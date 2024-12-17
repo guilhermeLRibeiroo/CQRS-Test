@@ -12,7 +12,7 @@ using Questao5.Infrastructure.Database.QueryStore.Handlers;
 using Questao5.Infrastructure.Database.QueryStore.Requests;
 using Questao5.Infrastructure.Database.QueryStore.Responses;
 using Questao5.Infrastructure.Sqlite;
-using Questao5.Tests.Builders.ObterSaldo;
+using Questao5.Tests.Builders;
 using Questao5.Tests.Fixtures;
 using ServiceStack;
 using System.Reflection;

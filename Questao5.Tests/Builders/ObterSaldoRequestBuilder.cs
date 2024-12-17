@@ -1,6 +1,6 @@
 ﻿using Questao5.Application.Queries.Requests;
 
-namespace Questao5.Tests.Builders.ObterSaldo
+namespace Questao5.Tests.Builders
 {
     public class ObterSaldoRequestBuilder
     {
